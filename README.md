@@ -23,8 +23,9 @@ if (ds.ultimateParent(4) == ds.ultimateParent(3))
 else
     cout << "Different Components";
 
+```
 
-Compile & Run
+### Compile & Run
 g++ DisjointSet.cpp -o DisjointSet
 ./DisjointSet
 
