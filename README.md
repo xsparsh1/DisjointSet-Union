@@ -31,6 +31,6 @@ g++ DisjointSet.cpp -o DisjointSet
 
 
 Author
-Sparsh Tyagi
-https://www.linkedin.com/in/sparsh-tyagi-19502b33b/
-https://github.com/xsparsh1
+- Sparsh Tyagi
+- https://www.linkedin.com/in/sparsh-tyagi-19502b33b/
+- https://github.com/xsparsh1
