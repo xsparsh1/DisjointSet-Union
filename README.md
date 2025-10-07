@@ -26,8 +26,8 @@ else
 ```
 
 ### Compile & Run
-g++ DisjointSet.cpp -o DisjointSet
-./DisjointSet
+- g++ DisjointSet.cpp -o DisjointSet
+- ./DisjointSet
 
 
 Author
